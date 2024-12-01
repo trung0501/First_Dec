@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{800A67EE-D7D6-43A8-9064-B0CE11E2FB1F}|QLThuvien\\QLThuvien.csproj|C:\\Users\\admin\\source\\repos\\Lab10\\qlthuvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800A67EE-D7D6-43A8-9064-B0CE11E2FB1F}|QLThuvien\\QLThuvien.csproj|solutionrelative:qlthuvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800A67EE-D7D6-43A8-9064-B0CE11E2FB1F}|QLThuvien\\QLThuvien.csproj|C:\\Users\\admin\\source\\repos\\Lab10\\qlthuvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{800A67EE-D7D6-43A8-9064-B0CE11E2FB1F}|QLThuvien\\QLThuvien.csproj|solutionrelative:qlthuvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800A67EE-D7D6-43A8-9064-B0CE11E2FB1F}|QLThuvien\\QLThuvien.csproj|C:\\Users\\admin\\source\\repos\\Lab10\\qlthuvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800A67EE-D7D6-43A8-9064-B0CE11E2FB1F}|QLThuvien\\QLThuvien.csproj|solutionrelative:qlthuvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800A67EE-D7D6-43A8-9064-B0CE11E2FB1F}|QLThuvien\\QLThuvien.csproj|C:\\Users\\admin\\source\\repos\\Lab10\\qlthuvien\\bangcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800A67EE-D7D6-43A8-9064-B0CE11E2FB1F}|QLThuvien\\QLThuvien.csproj|solutionrelative:qlthuvien\\bangcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800A67EE-D7D6-43A8-9064-B0CE11E2FB1F}|QLThuvien\\QLThuvien.csproj|c:\\users\\admin\\source\\repos\\lab10\\qlthuvien\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800A67EE-D7D6-43A8-9064-B0CE11E2FB1F}|QLThuvien\\QLThuvien.csproj|solutionrelative:qlthuvien\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Lab10\\QLThuvien\\Form1.cs",
+              "RelativeDocumentMoniker": "QLThuvien\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Lab10\\QLThuvien\\Form1.cs",
+              "RelativeToolTip": "QLThuvien\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwJoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:56:57.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Lab10\\QLThuvien\\Form1.cs",
+              "RelativeDocumentMoniker": "QLThuvien\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Lab10\\QLThuvien\\Form1.cs [Design]",
+              "RelativeToolTip": "QLThuvien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:29:55.68Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nhanvien.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Lab10\\QLThuvien\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "QLThuvien\\Nhanvien.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Lab10\\QLThuvien\\Nhanvien.cs",
+              "RelativeToolTip": "QLThuvien\\Nhanvien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:22:50.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BangCap.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Lab10\\QLThuvien\\BangCap.cs",
+              "RelativeDocumentMoniker": "QLThuvien\\BangCap.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Lab10\\QLThuvien\\BangCap.cs",
+              "RelativeToolTip": "QLThuvien\\BangCap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:21:41.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Lab10\\QLThuvien\\Database.cs",
+              "RelativeDocumentMoniker": "QLThuvien\\Database.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Lab10\\QLThuvien\\Database.cs",
+              "RelativeToolTip": "QLThuvien\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:21:20.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

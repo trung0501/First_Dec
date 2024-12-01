@@ -1,0 +1,10 @@
+D:\THLT.net\Lab10\QLThuvien\bin\Debug\QLThuvien.exe.config
+D:\THLT.net\Lab10\QLThuvien\bin\Debug\QLThuvien.exe
+D:\THLT.net\Lab10\QLThuvien\bin\Debug\QLThuvien.pdb
+D:\THLT.net\Lab10\QLThuvien\obj\Debug\QLThuvien.csproj.AssemblyReference.cache
+D:\THLT.net\Lab10\QLThuvien\obj\Debug\QLThuvien.Form1.resources
+D:\THLT.net\Lab10\QLThuvien\obj\Debug\QLThuvien.Properties.Resources.resources
+D:\THLT.net\Lab10\QLThuvien\obj\Debug\QLThuvien.csproj.GenerateResource.cache
+D:\THLT.net\Lab10\QLThuvien\obj\Debug\QLThuvien.csproj.CoreCompileInputs.cache
+D:\THLT.net\Lab10\QLThuvien\obj\Debug\QLThuvien.exe
+D:\THLT.net\Lab10\QLThuvien\obj\Debug\QLThuvien.pdb
